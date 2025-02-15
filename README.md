@@ -1,3 +1,5 @@
+Command - run npm dev to run on pages
+
 ## Figma URL
 
 [Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
@@ -37,5 +39,4 @@ Overall, the flow of the application should look something like this:
 - When the "read more" button is clicked, the Tour component updates its state to toggle a "read more" flag and conditionally renders the full description.
 
 - When the "re-fetch" button is clicked, the Tours component re-fetches the tours data from the URL and updates its state.
-# Tours
-# Tours
+
